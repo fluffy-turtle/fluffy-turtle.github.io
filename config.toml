@@ -1,0 +1,24 @@
+title = "Fluffy Turtle"
+baseURL = "https://fluffy-turtle.github.io"
+# theme = "vienna"
+# theme = "hugo-uno"
+theme = "hyde-x"
+# theme = "material-design"
+# theme = "material-lite"
+
+[params]
+  author = "Matthias Thubauville, Martin Zehetmayer"
+  description = "A Techblog & Knowlegebase"
+
+canonifyurls = false
+languageCode = "en-us"
+relativeURLs = true
+watch = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
