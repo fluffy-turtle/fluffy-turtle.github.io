@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Fluffy Turtle</title>
+    <link>https://fluffy-turtle.github.io/post/</link>
+    <description>Recent content in Posts on Fluffy Turtle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Aug 2015 09:24:26 +0200</lastBuildDate>
+    <atom:link href="https://fluffy-turtle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Setting up Hugo</title>
+      <link>https://fluffy-turtle.github.io/2015/08/setting-up-hugo/</link>
+      <pubDate>Wed, 12 Aug 2015 09:24:26 +0200</pubDate>
+      
+      <guid>https://fluffy-turtle.github.io/2015/08/setting-up-hugo/</guid>
+      <description>
+
+&lt;h1 id=&#34;hugo:3b2a27fa89be5c6ab7095769e5cefd40&#34;&gt;Hugo&lt;/h1&gt;
+
+&lt;p&gt;Hugo is &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
